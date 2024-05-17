@@ -1,0 +1,18 @@
+p {
+    font-family: 'Arial', sans-serif;
+    /* Sets the font size */
+    font-size: 45px;
+    /* Sets the font size */
+    color: rgb(255, 155, 0);
+    /* Sets the font color */
+    text-align: justify;
+    /* Justifies text alignment */
+    font-weight: bold;
+    /* Makes the font bold */
+    font-style: italic;
+    /* Makes the font italic */
+
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
